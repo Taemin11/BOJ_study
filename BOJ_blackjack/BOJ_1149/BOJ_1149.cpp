@@ -1,4 +1,4 @@
-﻿/*
+﻿
 #include <iostream>
 #include <algorithm>
 
@@ -22,4 +22,3 @@ int main() {
 	temp = min(rgb[n][0], rgb[n][1]);
 	cout << min(temp, rgb[n][2]);
 }
-*/
