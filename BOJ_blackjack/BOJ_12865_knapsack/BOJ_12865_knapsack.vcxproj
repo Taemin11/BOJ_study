@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{4B56B2E7-0C92-4F48-8926-E1A538FC8054}</ProjectGuid>
+    <ProjectGuid>{38AC1B57-586D-4737-9AAD-D6556DFCBF62}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BOJ2565</RootNamespace>
+    <RootNamespace>BOJ12865knapsack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BOJ_2565_wire</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_2565_wire.cpp" />
+    <ClCompile Include="BOJ_12865_knapsack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
