@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{03495244-37ED-457E-AEE9-F9599CC17DCD}</ProjectGuid>
+    <ProjectGuid>{786FEDE2-EDB8-43D8-A825-BE7BB0AD4988}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BOD11047coin0</RootNamespace>
+    <RootNamespace>BOJSugerDelivery</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BOJ_11047_coin0</ProjectName>
+    <ProjectName>BOJ_2839_SugerDelivery</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +152,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_11047_coin0.cpp" />
+    <ClCompile Include="BOJ_2839_SugerDelivery.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
