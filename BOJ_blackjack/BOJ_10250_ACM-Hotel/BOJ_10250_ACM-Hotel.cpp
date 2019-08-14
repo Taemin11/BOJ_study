@@ -14,14 +14,13 @@ int main() {
 			f = h;
 			s = s - 1;
 		}		
-		if (n < h * 9) {
-			cout << f << 0 << s + 1;
+		if (n <= h*9) {
+			cout << f << 0 << s + 1 << "\n";
 		}
 		else {
-			cout << f << s + 1;
+			cout << f << s + 1 << "\n";
 		}
 
-		cout << " ";
 	}
 
 
